@@ -5,3 +5,4 @@
 export module mrfranqx.winblitz.commons;
 
 export import :constexpr_sqrt;
+export import :number_concept;

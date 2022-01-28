@@ -8,6 +8,9 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.ixx">
       <Filter>commons</Filter>
     </ClCompile>
+    <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.part\number_concept.ixx">
+      <Filter>commons</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="commons">

@@ -17,5 +17,6 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz.ixx" />
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.ixx" />
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.part\constexpr_sqrt.ixx" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.part\number_concept.ixx" />
   </ItemGroup>
 </Project>
