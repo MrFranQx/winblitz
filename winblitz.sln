@@ -15,6 +15,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wbtests", "tests\wbtests.vcxproj", "{FF717913-EBA2-4982-AA92-49A232F3DB11}"
 EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		src\winblitz.vcxitems*{5885e759-b189-48d7-b7f5-5efab159d307}*SharedItemsImports = 9
+		src\winblitz.vcxitems*{ff717913-eba2-4982-aa92-49a232f3db11}*SharedItemsImports = 4
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
