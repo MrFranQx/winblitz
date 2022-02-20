@@ -18,5 +18,6 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.ixx" />
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.part\constexpr_sqrt.ixx" />
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.part\number_concept.ixx" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\utf8.ixx" />
   </ItemGroup>
 </Project>

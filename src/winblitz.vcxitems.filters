@@ -11,10 +11,16 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\commons.part\number_concept.ixx">
       <Filter>commons</Filter>
     </ClCompile>
+    <ClCompile Include="$(MSBuildThisFileDirectory)winblitz\utf8.ixx">
+      <Filter>utf8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="commons">
       <UniqueIdentifier>{562d5a77-e44b-4a05-af37-363c5499815c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utf8">
+      <UniqueIdentifier>{7b204375-2098-433a-8262-f7897a908cae}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
